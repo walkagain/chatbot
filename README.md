@@ -1,6 +1,6 @@
 ## chatbot
 
-**This is a pytorch seq2seq exersice,  major code comes  from [pytorch-tutorial-chatbot_tutorial .][https://pytorch.org/tutorials/beginner/chatbot_tutorial.html]**
+**This is a pytorch seq2seq exersice,  major code comes  from [pytorch-tutorial-chatbot_tutorial.]（https://pytorch.org/tutorials/beginner/chatbot_tutorial.html）**
 
 **Beam search method was implemented to handle encoder-decoder output result, that work well on long sentence input. ** 
 
